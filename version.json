@@ -1,0 +1,10 @@
+{
+  "app": "MultiTVOS",
+  "bundle_id": "vn.multitvos.appletv",
+  "version": "1.2.1",
+  "build": "2",
+  "branch": "Multitvos",
+  "sha256": "46db6c26aab020a1bce9081e9b60d9f31cfa6e015dc7fb6b689a4cb9408c36ed",
+  "download_url": "https://github.com/hongson117/MultiTVOS/releases/latest/download/MultiTVOS.ipa",
+  "raw_url": "https://github.com/hongson117/MultiTVOS/raw/Multitvos/MultiTVOS.ipa"
+}
